@@ -18,7 +18,7 @@ if($_SESSION['loginUser']!='true')
 		<div class="row">
 			<table class="bordered striped hoverable centered ">
 				<thead>
-					<th> Tipo de recuerdo </th>
+					<th> Tipo de Recuerdo </th>
 					<th> Rut </th>
 					<th> Cobertura </th>
 				</thead>
