@@ -1,0 +1,6 @@
+$(function() { 
+ 
+
+ $(".button-collapse").sideNav();
+
+});
